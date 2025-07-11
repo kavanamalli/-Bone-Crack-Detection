@@ -24,7 +24,7 @@ This project focuses on detecting **bone fractures** in X-ray images using multi
 ## 📊 Performance Analysis
 Each model was evaluated using accuracy, precision, recall, F1-score, and confusion matrix. The best-performing models were:
 - **ResNet50**
-- **EfficientNetB0**
+- **Custom CNN**
 
 ANN showed competitive results but underperformed compared to deep CNNs.
 
@@ -36,6 +36,7 @@ ANN showed competitive results but underperformed compared to deep CNNs.
 - NumPy, Pandas, Matplotlib, Seaborn
 - Google Colab
 - Kaggle API
+- Streamlit
 
 ---
 ## 📊 Highlights
@@ -45,11 +46,9 @@ ANN showed competitive results but underperformed compared to deep CNNs.
 
 ---
 
-## 🖥️ Streamlit App
-
-To run the Streamlit app locally:
+## 🖥️ How to run
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+
 
