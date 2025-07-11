@@ -5,7 +5,7 @@ This project focuses on detecting **bone fractures** in X-ray images using multi
 ## 📁 Dataset
 - **Name**: Bone Fracture Dataset
 - **Source**: [Kaggle - osamajalilhassan](https://www.kaggle.com/datasets/osamajalilhassan/bone-fracture-dataset)
-- Contains labeled X-ray images classified as **fractured** and **normal**.
+- Contains labeled X-ray images classified as **fractured** and **non fractured**.
 
 > 🔒 *Dataset not included in the repository due to size constraints. Use the above link to download it.*
 
